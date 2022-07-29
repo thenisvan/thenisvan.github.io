@@ -1,5 +1,5 @@
-[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/passwd.php)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/passwd.php)![workflow-badge]
-[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/hosts)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=etc/hosts)![workflow-badge]
+[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=../../../../../../etc/passwd)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=../../../../../../etc/passwd)![workflow-badge]
+[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=../../../../../../etc/hosts)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=../../../../../../etc/hosts)![workflow-badge]
 [![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=include.php)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=include.php)![workflow-badge]
 
 
