@@ -1,3 +1,12 @@
+[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/passwd.php)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/passwd.php)![workflow-badge]
+[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=/etc/hosts)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=etc/hosts)![workflow-badge]
+[![Gem Version](http://dvwa.xclbr.com/vulnerabilities/fi/?page=include.php)](http://dvwa.xclbr.com/vulnerabilities/fi/?page=include.php)![workflow-badge]
+
+
+
+
+
+
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
